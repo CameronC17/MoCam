@@ -1,5 +1,6 @@
 # MoCam
 -Go to github
+
 -Create repo
 -Pull from repo as owner
 -Create text file
